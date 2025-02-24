@@ -1,6 +1,6 @@
 # JWT Authentication with Spring Security
 
-Welcome to the **JWT Authentication with Spring Security** project! This project demonstrates how to secure a Spring Boot application using **JSON Web Tokens (JWT)** and **Spring Security**. It includes essential components like user registration, authentication, and authorization.
+Welcome to the **JWT Authentication with Spring Security** project! This project demonstrates how to secure a Spring Boot application using **JSON Web Tokens (JWT)** and **Spring Security**. It includes essential components like customer authorization.
 
 ## Table of Contents
 
