@@ -49,5 +49,5 @@ This project provides a robust and flexible authentication mechanism for Java-ba
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/jwt-spring-security.git
+git clone https://github.com/ms593/jwt-spring-security.git
 cd jwt-spring-security
